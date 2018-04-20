@@ -1,0 +1,2 @@
+# Identifying-Fraud-in-Enron-Email-Dataset
+Enron was one of the major American energy companies based originally in Houston, Texas in which by 2002, had completely collapsed into bankruptcy as a result of audit failure and corporate fraud. In this study, we will attempt to build a person of interest identifier based on the Enron dataset which is a dictionary combined from the Enron financial and email data where there exists one to one correspondence between each person and a key value pair in the dictionary.
